@@ -1,0 +1,10 @@
+-- Optional: prefer running database/seed.php so passwords are hashed correctly.
+-- Demo accounts (after seed.php): password123
+--   maria@example.com      (job seeker)
+--   employer@example.com   (employer)
+--   tesda@example.com      (provider)
+--   admin@lambunao.gov.ph  (admin)
+--
+-- Import order:
+--   1) database/schema.sql
+--   2) php database/seed.php   OR open /database/seed.php in the browser

@@ -1,0 +1,5 @@
+# Local overrides (keep config/db.php with XAMPP defaults committed for class use)
+config/db.local.php
+*.log
+.DS_Store
+Thumbs.db
